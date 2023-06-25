@@ -1,6 +1,6 @@
-# Prudent
+# Sage
 
-Beautiful, Fast landing page template for your next mobile project - [Live Preview](https://prudent.netlify.com)
+Beautiful, Fast landing page template for your next mobile project - [Live Preview](https://sage.netlify.com)
 
 ## Features
 
